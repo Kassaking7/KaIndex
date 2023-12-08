@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "KaIndex",
+  "version": "0.0.0",
+  "description": "Linux-like Terminal",
+  "author": "Kassaking7 <z2564wan@uwaterloo.ca>",
+  "chrome_url_overrides" : {
+    "newtab": "index.html"
+  },
+  "homepage_url": "https://KaIndex.com/",
+  "minimum_chrome_version": "81.0.0",
+  "offline_enabled": true,
+  "permissions": ["tabs"],
+  "short_name": "kaindex"
+}

@@ -23,3 +23,4 @@ Developed features like searching and bookmarking
 * Node.js
 * Express.js
 * MySQL
+* Redis
